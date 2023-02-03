@@ -7,3 +7,5 @@
 ## 과제 후기
 
 처음 하는 것은 항상 낯설고 어렵다. 함수를 구현하지 않고 파라미터로 무엇을 받는지, 어떤 값을 반환 할 건지, 함수의 이름만 정하고 어떻게 동작하는지 말로 설명하는게 조금 어려웠다.
+
+## [과제 링크](https://waterhumanb.github.io/wanted-pre-onboarding-challenge-fe-2/index.html)
