@@ -1,9 +1,5 @@
 # 원티드 챌린지 TypeScript
 
-# 사칙연산 문서
+## 자기소개
 
-## [addition](global.html#addition)
-
-## [subtraction](global.html#subtraction)
-
-## [multiplication](global.html#multiplication)
+## 과제 후기
